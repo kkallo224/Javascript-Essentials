@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title></title>
+        <h2>This is my First JS Demo</h2>
+    </head>
+    <body>
+        <p>My first web page</p>
+        <p>My first paragraph</p>
+        <button onclick="window.print()">Print this page</button>  
+    </body>
+</html>
+
